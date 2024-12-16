@@ -1,9 +1,14 @@
 R6 Internal source with following features:
 Aimbot
+
 Aimbot speed
+
 Aimbot fov
+
 Visible only
+
 Boxes
+
 Skeleton
 
 no sky
